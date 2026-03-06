@@ -44,6 +44,7 @@ Hope that helps clear things up.
 - [CoinMarketCap](https://coinmarketcap.com) — Shows all currencies on a real-time dashboard.
 - ~~[CoinScanner.co](https://coinscanner.co/) — Gives you multiple trade routes from 1 crypto to another.~~
 - [The Coin Perspective](https://thecoinperspective.com) — Helps you put different coins in perspective, comparing marketcaps, supplies and prices.
+- [ChartScout](https://Chartscout.io) — Real-Time Detection. Scans 1,000+ pairs across 4 exchanges 24/7. Detects patterns instantly and alerts you in under 20 seconds..
 
 ## ☤ Reading Material
 
